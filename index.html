@@ -22,7 +22,7 @@
     
                             <!-- Logo -->
                                 <a href="index.html" class="logo">
-                                    <span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Phantom</span>
+                                    <span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Brinders</span>
                                 </a>
     
                             <!-- Nav -->
@@ -40,10 +40,12 @@
                         <h2>Menu</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li><a href="generic.html">Ipsum veroeros</a></li>
-                            <li><a href="generic.html">Tempus etiam</a></li>
-                            <li><a href="generic.html">Consequat dolor</a></li>
-                            <li><a href="elements.html">Elements</a></li>
+                            <li><a href="yvonne.html">Yvonne</a></li>
+                            <li><a href="din.html">Din</a></li>
+                              <li><a href="cassie.html">Cassie</a></li>
+                              <li><a href="cookie.html">Cookie</a></li>
+                            <li><a href="benjamin.html">Benjamin</a></li>
+                            <li><a href="comment.html">Comment Threads</a></li>
                         </ul>
                     </nav>
     
@@ -51,18 +53,19 @@
                     <div id="main">
                         <div class="inner">
                             <header>
-                                <h1>Hello Mike!This is Yvoone, Din, Cassie and Benjamin.Haven't seen you for days ,so we're perpared for giving you a surprise with the end of the last class.<br />
-                                <p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+                                <h1>Hello, Mike! This is Yvonne, Din, Cassie, Cookie and Benjamin.<br />
+                                Haven't seen you for days , <a >so we're perpared for giving you a surprise with the end of the last class</a>.</h1>
+                                <p>Oh, I nearly forgot that we all have something to say to you. 3-2-1... are you ready? Here we go~</p>
                             </header>
                             <section class="tiles">
                                 <article class="style1">
                                     <span class="image">
                                         <img src="images/pic01.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Magna</h2>
+                                    <a href="yvonne.html">
+                                        <h2>Yvonne</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -70,10 +73,10 @@
                                     <span class="image">
                                         <img src="images/pic02.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Lorem</h2>
+                                    <a href="din.html">
+                                        <h2>Din</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -81,10 +84,10 @@
                                     <span class="image">
                                         <img src="images/pic03.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Feugiat</h2>
+                                    <a href="cassie.html">
+                                        <h2>Cassie</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -92,10 +95,10 @@
                                     <span class="image">
                                         <img src="images/pic04.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Tempus</h2>
+                                    <a href="cookie.html">
+                                        <h2>Cookie</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -103,10 +106,10 @@
                                     <span class="image">
                                         <img src="images/pic05.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Aliquam</h2>
+                                    <a href="benjamin.html">
+                                        <h2>Benjamin</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -114,10 +117,10 @@
                                     <span class="image">
                                         <img src="images/pic06.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Veroeros</h2>
+                                    <a href="ethan.html">
+                                        <h2>Ethan</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -125,10 +128,10 @@
                                     <span class="image">
                                         <img src="images/pic07.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Ipsum</h2>
+                                    <a href="comment.html">
+                                        <h2>memorize</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>Unfinished.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -136,10 +139,10 @@
                                     <span class="image">
                                         <img src="images/pic08.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Dolor</h2>
+                                    <a href="video.html">
+                                        <h2>videos</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>To be continued.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -147,10 +150,10 @@
                                     <span class="image">
                                         <img src="images/pic09.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Nullam</h2>
+                                    <a href="grumble.html">
+                                        <h2>grumble</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See that side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -158,10 +161,10 @@
                                     <span class="image">
                                         <img src="images/pic10.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Ultricies</h2>
+                                    <a href="comment.html">
+                                        <h2>comment threads</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -169,10 +172,10 @@
                                     <span class="image">
                                         <img src="images/pic11.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Dictum</h2>
+                                    <a href="comment.html">
+                                        <h2>comment threads</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -180,10 +183,10 @@
                                     <span class="image">
                                         <img src="images/pic12.jpg" alt="" />
                                     </span>
-                                    <a href="generic.html">
-                                        <h2>Pretium</h2>
+                                    <a href="comment.html">
+                                        <h2>comment threads</h2>
                                         <div class="content">
-                                            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+                                            <p>See this side.</p>
                                         </div>
                                     </a>
                                 </article>
@@ -227,7 +230,7 @@
                                 </ul>
                             </section>
                             <ul class="copyright">
-                                <li>© Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                                <li>© Untitled. All rights reserved</li><li>Design: <a href="">Benjamin</a></li>
                             </ul>
                         </div>
                     </footer>
